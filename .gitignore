@@ -1,0 +1,18 @@
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Swap the comments on the following lines if you don't wish to use zero-installs
+# Documentation here: https://yarnpkg.com/features/zero-installs
+!.yarn/cache
+#.pnp.*
+
+# these two wallets you do not care about and are throw-aways for testing
+dev-wallet-1.json
+dev-wallet-2.json
+
+# this is the wallet you actually care about and are sending funds to and using for the course on devnet
+wallet.json
