@@ -1,1 +1,1 @@
-# airdrop
+Prerequisite for Web3 Builders Alliance Solana Cohort Q2 2024
